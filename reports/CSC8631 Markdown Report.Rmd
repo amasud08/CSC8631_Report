@@ -16,7 +16,16 @@ library(ProjectTemplate)
 load.project()
 ```
 
-## R Markdown
+## Model of Exploratory Data Analysis
+
+This report will follow a CRSIP-DM model...
+
+## Business Understanding 
+
+In beginning an exploratory data analysis, it was important to gain an understanding of the clients, or rather in this case, the students that have got involved
+
+Knowing 
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
